@@ -7,7 +7,7 @@ email mudder.mis@icloud.com
 
 Privacy Policy
 
-_Last updated: [Month Day, Year]_
+_Last updated: [10.01.2025]
 
 FRZR (“the App”) helps you track freezer items and, if you choose, share that information with specific people you trust.
 This policy explains what data we collect, how it is used, and the choices you have.
